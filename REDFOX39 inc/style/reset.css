@@ -1,0 +1,18 @@
+*{ margin: 0; padding: 0;}
+
+.clearfix:after{ content:""; display:table; clear:both}
+
+body::-webkit-scrollbar {width:0px;}
+
+a{ color: black; text-decoration: none;}
+
+ul{ list-style: none;}
+
+ol{ list-style: none;}
+
+
+
+
+
+
+/*<!DOCTYPE Liky>*/
